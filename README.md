@@ -11,4 +11,4 @@ There are quite a few people doing work with Qualisys motion capture systems and
 * [External Robot Localization in 6DoF](https://github.com/qualisys/ROS/blob/master/External%20Robot%20Localization%20in%206DoF.pdf)
 
 
-For more information regarding our motion capture system go to www.qualisys.com.
+For more information regarding our motion capture system capabilites go to www.qualisys.com.
