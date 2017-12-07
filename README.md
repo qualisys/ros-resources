@@ -2,6 +2,8 @@
 
 [Qualisys motion capture systems](http://www.qualisys.com/) can be integrated to your [Robot Operating System (ROS)](http://www.ros.org/) projects with ease to provide high-speed, precision position tracking. This repository contains a collection of resources for developing ROS projects and related applications that interact with QTM.
 
+![](https://s3-eu-west-1.amazonaws.com/content.qualisys.com/2017/03/motion-capture-engineering-analysing-snake-robot-movements.jpg)
+
 ## Example Projects and Academic papers
 
 * https://github.com/KumarRobotics/motion_capture_system
