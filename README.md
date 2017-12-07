@@ -1,8 +1,8 @@
-# [ROS](www.ros.org) (Robot Operating System)
+# Resources for Using ROS with Qualisys Systems
 
-This is a place where we at Qualisys gather resources for [ROS](www.ros.org) (Robot Operating System).
+Qualisys motion capture systems can be integrated to your [Robot Operating System (ROS)](http://www.ros.org/) projects with ease to provide high-speed, precision position tracking. This repository contains a collection of resources for developing ROS projects and related applications that interact with QTM.
 
-There are quite a few people doing work with Qualisys motion capture systems and ROS and some of them share their work so we compile them here to help customers with their ROS work.
+## Example Projects and Academic papers
 
 * https://github.com/KumarRobotics/motion_capture_system
 * https://github.com/KumarRobotics/qualisys
@@ -12,4 +12,4 @@ There are quite a few people doing work with Qualisys motion capture systems and
 * [Object and human tracking, and robot control through a load sensing floor](https://github.com/qualisys/ROS/blob/master/Objectandhumantrackingandrobotcontrolthroughaloadsensingfloor.pdf)
 * [Hybrid Control of Multi-robot Systems under Complex Temporal Tasks](https://github.com/qualisys/ROS/blob/master/HybridControlofMultirobotSystems.pdf)
 
-For more information regarding our motion capture system capabilites go to www.qualisys.com.
+Also see [Applications in Engineering on the Qualisys website](http://www.qualisys.com/applications/engineering/) for product details, reference users, customer stories, application examples, and more.
