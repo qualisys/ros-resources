@@ -1,6 +1,6 @@
 # Resources for Using ROS with Qualisys Systems
 
-Qualisys motion capture systems can be integrated to your [Robot Operating System (ROS)](http://www.ros.org/) projects with ease to provide high-speed, precision position tracking. This repository contains a collection of resources for developing ROS projects and related applications that interact with QTM.
+[Qualisys motion capture systems](http://www.qualisys.com/) can be integrated to your [Robot Operating System (ROS)](http://www.ros.org/) projects with ease to provide high-speed, precision position tracking. This repository contains a collection of resources for developing ROS projects and related applications that interact with QTM.
 
 ## Example Projects and Academic papers
 
