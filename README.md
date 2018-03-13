@@ -6,7 +6,6 @@
 
 ## Example Projects and Academic papers
 
-* https://github.com/KumarRobotics/motion_capture_system
 * https://github.com/KumarRobotics/qualisys
 * https://github.com/omwdunkley/Qualisys2Ros
 * [Developer's Guide for software from Coordination of Autonomous Aerial Vehicles](https://github.com/qualisys/ROS/blob/master/Developer's%20Guide%20for%20software%20from%20Coordination%20of%20Autonomous%20Aerial%20Vehicles.pdf)
