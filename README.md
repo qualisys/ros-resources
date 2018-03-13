@@ -13,5 +13,7 @@
 * [External Robot Localization in 6DoF](https://github.com/qualisys/ROS/blob/master/External%20Robot%20Localization%20in%206DoF.pdf)
 * [Object and human tracking, and robot control through a load sensing floor](https://github.com/qualisys/ROS/blob/master/Objectandhumantrackingandrobotcontrolthroughaloadsensingfloor.pdf)
 * [Hybrid Control of Multi-robot Systems under Complex Temporal Tasks](https://github.com/qualisys/ROS/blob/master/HybridControlofMultirobotSystems.pdf)
+* [Multiagent cooperative coverage control]
+(https://github.com/qualisys/ros-resources/blob/master/multiagent%20cooperative%20coverage%20control.pdf)
 
 Also see [Applications in Engineering on the Qualisys website](http://www.qualisys.com/applications/engineering/) for product details, reference users, customer stories, application examples, and more.
