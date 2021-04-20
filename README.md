@@ -7,6 +7,7 @@
 ## Example Projects and Academic papers
 
 * https://github.com/KTH-SML/motion_capture_system
+* https://github.com/jgoppert/qualisys_ros
 * https://github.com/omwdunkley/Qualisys2Ros
 * https://github.com/KumarRobotics/qualisys
 * https://github.com/MOCAP4ROS2-Project/mocap4ros2_qualisys
