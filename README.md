@@ -1,8 +1,8 @@
 # Resources for Using ROS with Qualisys Systems
 
-[Qualisys motion capture systems](http://www.qualisys.com/) can be integrated to your [Robot Operating System (ROS)](http://www.ros.org/) projects with ease to provide high-speed, precision position tracking. This repository contains a collection of resources for developing ROS projects and related applications that interact with QTM.
+[Qualisys motion capture systems](http://www.qualisys.com/) can be integrated to your [Robot Operating System (ROS)](http://www.ros.org/) projects with ease to provide high-speed, high-precision position tracking. 
 
-![](https://s3-eu-west-1.amazonaws.com/content.qualisys.com/2017/03/motion-capture-engineering-analysing-snake-robot-movements.jpg)
+This repository contains a collection of resources for developing ROS projects and related applications that interact with QTM.
 
 ## Open Source Tools
 
@@ -13,7 +13,7 @@
 * [KumarRobotics/qualisys](https://github.com/KumarRobotics/qualisys)
 
 
-## Guides, Reports and Academic Publications
+## Guides, Reports, and Academic Publications
 
 * [Developer's Guide for software from Coordination of Autonomous Aerial Vehicles](https://github.com/qualisys/ros-resources/blob/master/Developer's%20Guide%20for%20software%20from%20Coordination%20of%20Autonomous%20Aerial%20Vehicles.pdf)
 * [External Robot Localization in 6DoF](https://github.com/qualisys/ros-resources/blob/master/External%20Robot%20Localization%20in%206DoF.pdf)
